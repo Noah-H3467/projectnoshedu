@@ -1,3 +1,12 @@
+body {
+  line-height: 1.4;
+  font-weight: 300;
+  font-family: "Roboto", sans-serif;
+}
+button:hover {
+  opacity: 0.8;
+  transition: 0.2s ease-in-out;
+}
 .container {
     padding-right: 250px;
     padding-left: 250px;
